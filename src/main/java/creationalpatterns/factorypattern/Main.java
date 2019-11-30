@@ -11,7 +11,7 @@ package creationalpatterns.factorypattern;
     The advantage of the factory pattern are:
     1. Good encapsulation. The client side does not know the implementation of the Product(Door, Window, etc).
     2. Decouple the objects. In case we want to change the implementation of the method in concrete builder class, there is no changes needed in the
-    client side.  
+    client side.
  */
 public class Main {
 
